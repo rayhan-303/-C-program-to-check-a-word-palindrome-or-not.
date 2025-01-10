@@ -1,1 +1,1 @@
-# -C-program-to-check-a-word-palindrome-or-not.
+# C program to check a word palindrome or not.
